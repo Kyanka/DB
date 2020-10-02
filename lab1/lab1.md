@@ -9,48 +9,42 @@ PostgreSQL
 
 Варіант 13
 
-
-Рис.1. Графічний файл розробленої моделі «сутність-зв’язок»</p>
+![University Studies](https://github.com/Kyanka/DB/blob/main/lab1/Screenshot_4.png)
+<p align="center">Рис.1. Графічний файл розробленої моделі «сутність-зв’язок»</p>
 </br></br></br></br>
 
 
 
-
-<p align="center">Рис.2. Структуру нормалізованої бази даних з назвами таблиць та зв’язками між ними</p>
-
+![Tables](https://github.com/Kyanka/DB/blob/main/lab1/Screenshot_5.png)
+<p align="center">Рис.2. Структура нормалізованої бази даних з назвами таблиць та зв’язками між ними</p>
 </br>
 
 
 
-
-<p align="center">Рис.3.1. Вміст таблиці City</p>
-
+![Tables](https://github.com/Kyanka/DB/blob/main/lab1/Screenshot_6.png)
+<p align="center">Рис.3.1. Вміст таблиці Students</p>
 </br>
 
 
 
+![Tables](https://github.com/Kyanka/DB/blob/main/lab1/Screenshot_7.png)
+<p align="center">Рис.3.2. Вміст таблиці Groups</p>
+</br>
 
-<p align="center">Рис.3.2. Вміст таблиці Counrty</p>
 
+![Tables](https://github.com/Kyanka/DB/blob/main/lab1/Screenshot_8.png)
+<p align="center">Рис.3.3. Вміст таблиці Teachers</p>
+</br>
+
+
+![Tables](https://github.com/Kyanka/DB/blob/main/lab1/Screenshot_9.png)
+<p align="center">Рис.3.4. Вміст таблиці Classes</p>
 </br>
 
 
 
-<p align="center">Рис.3.3. Вміст таблиці instructor</p>
-
-</br>
-
-
-
-<p align="center">Рис.3.4. Вміст таблиці Location</p>
-
-</br>
-
-
-
-
-<p align="center">Рис.3.5. Вміст таблиці Tour</p>
-
+![Tables](https://github.com/Kyanka/DB/blob/main/lab1/Screenshot_10.png)
+<p align="center">Рис.3.5. Вміст таблиці groups_classes</p>
 </br>
 
 
