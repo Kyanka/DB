@@ -22,13 +22,13 @@ PostgreSQL
 
 
 ![Tables](https://github.com/Kyanka/DB/blob/main/lab1/Screenshot_6.png)
-<p align="center">Рис.3.1. Вміст таблиці Students</p>
+<p align="center">Рис.3.1. Вміст таблиці Groups</p>
 </br>
 
 
 
 ![Tables](https://github.com/Kyanka/DB/blob/main/lab1/Screenshot_7.png)
-<p align="center">Рис.3.2. Вміст таблиці Groups</p>
+<p align="center">Рис.3.2. Вміст таблиці Students</p>
 </br>
 
 
