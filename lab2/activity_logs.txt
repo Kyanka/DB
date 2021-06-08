@@ -1,0 +1,17 @@
+INFO:root:(2021-04-16 14:55:43.393571) User dragon signed up.
+INFO:root:(2021-04-16 14:55:46.075801) User dragon signed out.
+INFO:root:(2021-04-16 14:55:57.111797) User fakeUser signed up.
+INFO:root:(2021-04-16 14:56:11.307379) User fakeUser signed out.
+INFO:root:(2021-04-16 14:56:24.403028) User fakeUser sent spam: hello :).
+INFO:root:(2021-04-16 14:56:34.473134) User Shane Andrews signed up.
+INFO:root:(2021-04-16 14:56:34.475667) User Michelle Roth signed up.
+INFO:root:(2021-04-16 14:56:34.477136) User Sheila Smith signed up.
+INFO:root:(2021-04-16 14:56:34.497084) User Sheila Smith signed out.
+INFO:root:(2021-04-16 14:56:34.497084) User Shane Andrews signed out.
+INFO:root:(2021-04-16 14:56:34.498080) User Michelle Roth signed out.
+INFO:root:(2021-04-16 14:56:40.773900) User Michelle Roth sent spam: Sometimes charge better them role..
+INFO:root:(2021-04-16 14:56:48.523182) User Shane Andrews sent spam: Child research heart about language else..
+INFO:root:(2021-04-16 14:56:48.539159) User Sheila Smith sent spam: Bring law try pressure..
+INFO:root:(2021-04-16 14:56:48.729627) User Sheila Smith sent spam: Federal today long capital time..
+INFO:root:(2021-04-16 14:56:56.681380) User Sheila Smith sent spam: Lot peace cost before he test..
+INFO:root:(2021-04-16 14:56:56.793082) User Sheila Smith sent spam: Size wide rise..
